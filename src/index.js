@@ -104,4 +104,5 @@ const API = {
   install
 }
 
-module.exports.default = module.exports = API
+// module.exports.default = module.exports = API
+export default API;
